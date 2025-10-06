@@ -1,6 +1,6 @@
 import { Link, useNavigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { Home, Search, Heart, User, LogOut } from 'lucide-react';
+import { Chrome as Home, Search, Heart, User, LogOut } from 'lucide-react';
 import { supabase } from '../lib/supabase';
 import { motion } from 'framer-motion';
 
